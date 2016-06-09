@@ -1,0 +1,25 @@
+h2{
+  color:black;
+}
+img{
+  width:50%;
+  margin-right:1px;
+}
+#BG{
+  border:10px solid black;
+  width:1000px;
+}
+#additem{
+  /*border:1px solid black;*/
+  /*width:1px;*/
+}
+.options{
+  display:inline-block;
+  width: 20%;
+}
+#kermit{
+  display: none;
+}
+body{
+  background: green;
+}
